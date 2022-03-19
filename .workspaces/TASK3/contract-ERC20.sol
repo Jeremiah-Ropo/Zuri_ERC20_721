@@ -6,10 +6,10 @@ import "@openzeppelin/contracts@4.5.0/access/Ownable.sol";
 
 contract WTMToken is ERC20, Ownable {
 
-    uint256 public rate = 1000 * 10 ** decimals();
+    uint256 public rate = 1000 * 1 ** decimals();
 
     constructor() ERC20("WTMToken", "WTM") {
-        _mint(msg.sender, 1000000 * 10 ** decimals());
+        _mint(msg.sender, 1000000 * 1 ** decimals());
     }
 
     function mint(address to, uint256 amount) public onlyOwner {
