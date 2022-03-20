@@ -10,6 +10,7 @@ NFT minting address: https://rinkeby.etherscan.io/tx/0xa1d150dda131e76c93671b34a
 
 
 Metadata Structure: {
+
 	"name": "JayNFT",
 
 	"image": "ipfs://bafkreid7r5275qw6m5mubbgrtutq37fh6kyjhjmumi2tjk2rkvvkxig3oi",
