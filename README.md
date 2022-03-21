@@ -6,7 +6,7 @@ ERC20 token address:
 https://rinkeby.etherscan.io/address/0xd9145CCE52D386f254917e481eB44e9943F39138
 
 
-NFT minting address: https://rinkeby.etherscan.io/tx/0xa1d150dda131e76c93671b34a076123f278c65f4a3e32669f728464fb279edfe
+NFT minting address: https://rinkeby.etherscan.io/tx/0x80f8a30b6c8bed3f60ae6569ca19c41fbc1ae84d79609ebc70dba189ff81d5ce
 
 
 Metadata Structure: {
